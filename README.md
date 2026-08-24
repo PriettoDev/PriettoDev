@@ -5,10 +5,10 @@ Computer Engineering Student | Robotics | Embedded Systems | Software Developmen
 </h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="linkedin.com/in/pedroprietto-95637a2b7">
     <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Prietto-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="priettodev@duck.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-informational?style=for-the-badge&logo=protonmail" />
   </a>
 </p>
@@ -120,26 +120,6 @@ I'm currently Learning in:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true" />
-  
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8" />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 I'm always interested in discussing **engineering, robotics, embedded systems, cybersecurity and technology projects**.
@@ -147,5 +127,5 @@ I'm always interested in discussing **engineering, robotics, embedded systems, c
 Feel free to explore my repositories and connect with me.
 
 <p align="center">
-  <i>"Building systems, learning continuously and turning ideas into engineering."</i>
+  <i>"SIC•󠁏PARVIS•󠁏MAGNA"</i>
 </p>
