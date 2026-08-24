@@ -5,7 +5,7 @@ Computer Engineering Student | Robotics | Embedded Systems | Software Developmen
 </h3>
 
 <p align="center">
-  <a href="linkedin.com/in/pedroprietto-95637a2b7">
+  <a href="https://www.linkedin.com/in/pedro-prietto-95637a2b7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6NcEl1%2BeRLijVDFFzjupPw%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Prietto-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="priettodev@duck.com">
