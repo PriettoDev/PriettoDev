@@ -5,10 +5,10 @@ Computer Engineering Student | Robotics | Embedded Systems | Software Developmen
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedro-prietto-95637a2b7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6NcEl1%2BeRLijVDFFzjupPw%3D%3D">
+  <a href="https://www.linkedin.com/in/pedro-prietto-95637a2b7/">
     <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Prietto-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="priettodev@duck.com">
+  <a href="mailto:priettodev@duck.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-informational?style=for-the-badge&logo=protonmail" />
   </a>
 </p>
@@ -118,6 +118,19 @@ I'm currently Learning in:
 - 🇺🇸 English — Proficient
 - 🇫🇷 French — Intermediate
 
+---
+
+```markdown
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=PriettoDev&show_icons=true&include_all_commits=true&count_private=true" />
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriettoDev&layout=compact&langs_count=8" />
+</p>
+```
 ---
 
 ## 📫 Let's Connect
