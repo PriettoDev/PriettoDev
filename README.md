@@ -120,19 +120,6 @@ I'm currently Learning in:
 
 ---
 
-```markdown
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=PriettoDev&show_icons=true&include_all_commits=true&count_private=true" />
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriettoDev&layout=compact&langs_count=8" />
-</p>
-```
----
-
 ## 📫 Let's Connect
 
 I'm always interested in discussing **engineering, robotics, embedded systems, cybersecurity and technology projects**.
